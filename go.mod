@@ -1,3 +1,3 @@
-module github.com/portoban/myGoModule/v2
+module github.com/portoban/myGoModule
 
 go 1.15
